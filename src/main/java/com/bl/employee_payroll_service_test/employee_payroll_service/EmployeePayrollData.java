@@ -1,4 +1,4 @@
-package com.bl.employee_payroll_service;
+package com.bl.employee_payroll_service_test.employee_payroll_service;
 
 public class EmployeePayrollData {
     public int id;
