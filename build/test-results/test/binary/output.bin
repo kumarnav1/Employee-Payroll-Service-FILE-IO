@@ -7,12 +7,12 @@
 !C:\Users\nk400\PlayGround\temp7
 !C:\Users\nk400\PlayGround\temp8
 !C:\Users\nk400\PlayGround\temp9
-!C:\Users\nk400\PlayGround\temp1
-!C:\Users\nk400\PlayGround\temp2
-!C:\Users\nk400\PlayGround\temp3
-!C:\Users\nk400\PlayGround\temp4
-!C:\Users\nk400\PlayGround\temp5
-!C:\Users\nk400\PlayGround\temp6
-!C:\Users\nk400\PlayGround\temp7
-!C:\Users\nk400\PlayGround\temp8
-!C:\Users\nk400\PlayGround\temp9
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp9
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp1
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp2
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp3
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp4
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp5
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp8
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp6
+.ENTRY_DELETE: C:\Users\nk400\PlayGround\temp7
